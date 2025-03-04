@@ -21,9 +21,6 @@ Este proyecto implementa un multímetro digital utilizando Arduino, capaz de med
 - Protoboard
 - Componentes electrónicos varios
 
-## Esquema de Conexión
-[Aquí irá un diagrama de conexión de los componentes]
-
 ## Instalación
 1. Clonar el repositorio
 ```bash
