@@ -27,7 +27,7 @@ Este proyecto implementa un multímetro digital utilizando Arduino, capaz de med
 ## Instalación
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/[tu-usuario]/arduino-multimeter.git
+https://github.com/yiixaj/Multimetro-arduino.git
 ```
 
 2. Abrir el proyecto con Arduino IDE
@@ -49,9 +49,6 @@ El proyecto incluye rutinas de calibración para garantizar mediciones precisas.
 - Rango de medición limitado
 - Precisión dependiente de la calidad de los componentes
 - No apto para mediciones profesionales de alta precisión
-
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor, leer CONTRIBUTING.md antes de enviar un pull request.
 
 ## Agradecimientos
 - Comunidad Arduino
